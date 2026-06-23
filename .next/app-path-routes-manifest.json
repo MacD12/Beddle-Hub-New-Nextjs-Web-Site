@@ -1,0 +1,14 @@
+{
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/_not-found/page": "/_not-found",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/about/page": "/about",
+  "/platform/page": "/platform",
+  "/pricing/page": "/pricing",
+  "/careers/page": "/careers",
+  "/solutions/page": "/solutions",
+  "/resources/page": "/resources",
+  "/resources/[slug]/page": "/resources/[slug]"
+}
